@@ -42,3 +42,7 @@ False
 # not the culculation moves from left to right
 # print(3 * 3 + 3 / 3 -3) = 7.0
 print(3 * 3 / 3 + 3 -3)
+
+# use the round() function to convert floating point numbers into whole numbers
+# print (8 // 3) this is a float division
+# An f-string, also known as a formatted string literal, is a feature introduced in Python 3.6 that allows you to embed expressions inside string literals, making it easier to format and create strings with variables, expressions, and values. F-strings are created by prefixing a string literal with the letter 'f' or 'F'. Within an f-string, you can use curly braces {} to enclose expressions that are evaluated at runtime and replaced with their values in the resulting string.
