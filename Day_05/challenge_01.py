@@ -9,6 +9,7 @@ total_sum = 0
 for height in student_heights:
     total_sum += height
 
+# calculate total array length
 length = 0
 for _ in student_heights:
     length += 1
